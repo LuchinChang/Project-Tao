@@ -32,6 +32,7 @@ The journey focuses on building a deep understanding of:
 ├── 📁 phase3-real-analysis/    # Real Analysis Foundations
 ├── 📁 phase4-godel-logic/      # Deeper Dive into Logic & Computability
 ├── 📁 phase5-complex-analysis/ # Complex Analysis
+├── 📁 progress/                # Tracking weekly progress
 ├── 📁 resources/               # Reference materials and study guides
 ├── 📁 blog-posts/              # Weekly reflections and insights
 └── 📁 textbook-reconstruction/ # Personal "textbook" project
@@ -49,8 +50,8 @@ The journey focuses on building a deep understanding of:
 
 **Legend**: 🟢 In Progress | 🟡 Partially Complete | 🔵 Complete | ⚪ Not Started
 
-Track detailed progress in the [/progress](/progress) directory:
-- [Weekly Tracker](/progress/weekly-tracker.md) - Detailed weekly tasks and goals
+Track detailed progress in the [/progress](/progress) directory.
+
 
 ## 📊 Success Metrics
 
